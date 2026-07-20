@@ -1,12 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red)
-
-![Pandas](https://img.shields.io/badge/Pandas-2.x-purple)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-green)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![Python](https://img.shields.io/badge/Python-3.13-blue)![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-red)![Pandas](https://img.shields.io/badge/Pandas-2.x-purple)![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-green)![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # 🌍 Supply Chain Greenhouse Gas Emissions Analysis
 
