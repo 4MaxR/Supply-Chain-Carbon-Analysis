@@ -1,0 +1,1017 @@
+"NAICS_Code","Industry","Emission_With_Margins","Quartile_Number","Emission_Level"
+562212,Solid Waste Landfill,10.98900032043457,1,Very High
+327310,Cement Manufacturing,3.8580000400543213,1,Very High
+112111,Beef Cattle Ranching and Farming,3.2980000972747803,1,Very High
+112112,Cattle Feedlots,3.2980000972747803,1,Very High
+112130,Dual-Purpose Cattle Ranching and Farming,3.2980000972747803,1,Very High
+111130,Dry Pea and Bean Farming,3.006999969482422,1,Very High
+111140,Wheat Farming,3.006999969482422,1,Very High
+111150,Corn Farming,3.006999969482422,1,Very High
+111160,Rice Farming,3.006999969482422,1,Very High
+111191,Oilseed and Grain Combination Farming,3.006999969482422,1,Very High
+111199,All Other Grain Farming,3.006999969482422,1,Very High
+112120,Dairy Cattle and Milk Production,2.578000068664551,1,Very High
+562213,Solid Waste Combustors and Incinerators,2.1659998893737793,1,Very High
+325311,Nitrogenous Fertilizer Manufacturing,2.115000009536743,1,Very High
+325312,Phosphatic Fertilizer Manufacturing,2.115000009536743,1,Very High
+325314,Fertilizer (Mixing Only) Manufacturing,2.115000009536743,1,Very High
+212111,Bituminous Coal and Lignite Surface Mining,2.0160000324249268,1,Very High
+212112,Bituminous Coal Underground Mining,2.0160000324249268,1,Very High
+212113,Anthracite Mining,2.0160000324249268,1,Very High
+562211,Hazardous Waste Treatment and Disposal,1.7769999504089355,1,Very High
+562112,Hazardous Waste Collection,1.7769999504089355,1,Very High
+327410,Lime Manufacturing,1.7139999866485596,1,Very High
+327420,Gypsum Product Manufacturing,1.7139999866485596,1,Very High
+311221,Wet Corn Milling,1.6369999647140503,1,Very High
+486110,Pipeline Transportation of Crude Oil,1.5579999685287476,1,Very High
+486210,Pipeline Transportation of Natural Gas,1.5579999685287476,1,Very High
+486910,Pipeline Transportation of Refined Petroleum Products,1.5579999685287476,1,Very High
+486990,All Other Pipeline Transportation,1.5579999685287476,1,Very High
+325193,Ethyl Alcohol Manufacturing,1.5099999904632568,1,Very High
+325194,"Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing",1.5099999904632568,1,Very High
+325199,All Other Basic Organic Chemical Manufacturing,1.5099999904632568,1,Very High
+325120,Industrial Gas Manufacturing,1.4500000476837158,1,Very High
+311211,Flour Milling,1.4479999542236328,1,Very High
+311212,Rice Milling,1.4479999542236328,1,Very High
+311213,Malt Manufacturing,1.4479999542236328,1,Very High
+111910,Tobacco Farming,1.430999994277954,1,Very High
+111920,Cotton Farming,1.430999994277954,1,Very High
+111930,Sugarcane Farming,1.430999994277954,1,Very High
+111940,Hay Farming,1.430999994277954,1,Very High
+111991,Sugar Beet Farming,1.430999994277954,1,Very High
+111992,Peanut Farming,1.430999994277954,1,Very High
+111998,All Other Miscellaneous Crop Farming,1.430999994277954,1,Very High
+331313,Alumina Refining and Primary Aluminum Production,1.409999966621399,1,Very High
+325130,Synthetic Dye and Pigment Manufacturing,1.3819999694824219,1,Very High
+112210,Hog and Pig Farming,1.375,1,Very High
+112410,Sheep Farming,1.375,1,Very High
+112420,Goat Farming,1.375,1,Very High
+112511,Finfish Farming and Fish Hatcheries,1.375,1,Very High
+112512,Shellfish Farming,1.375,1,Very High
+112519,Other Aquaculture,1.375,1,Very High
+112910,Apiculture,1.375,1,Very High
+112920,Horses and Other Equine Production,1.375,1,Very High
+112930,Fur-Bearing Animal and Rabbit Production,1.375,1,Very High
+112990,All Other Animal Production,1.375,1,Very High
+111110,Soybean Farming,1.3259999752044678,1,Very High
+111120,Oilseed (except Soybean) Farming,1.3259999752044678,1,Very High
+324121,Asphalt Paving Mixture and Block Manufacturing,1.3179999589920044,1,Very High
+311611,Animal (except Poultry) Slaughtering,1.2790000438690186,1,Very High
+311612,Meat Processed from Carcasses,1.2790000438690186,1,Very High
+311613,Rendering and Meat Byproduct Processing,1.2790000438690186,1,Very High
+311513,Cheese Manufacturing,1.2589999437332153,1,Very High
+212210,Iron Ore Mining,1.2330000400543213,1,Very High
+212221,Gold Ore Mining,1.2330000400543213,1,Very High
+212222,Silver Ore Mining,1.2330000400543213,1,Very High
+212291,Uranium-Radium-Vanadium Ore Mining,1.2330000400543213,1,Very High
+212299,All Other Metal Ore Mining,1.2330000400543213,1,Very High
+325110,Petrochemical Manufacturing,1.1970000267028809,1,Very High
+112310,Chicken Egg Production,1.1710000038146973,1,Very High
+112320,Broilers and Other Meat Type Chicken Production,1.1710000038146973,1,Very High
+112330,Turkey Production,1.1710000038146973,1,Very High
+112340,Poultry Hatcheries,1.1710000038146973,1,Very High
+112390,Other Poultry Production,1.1710000038146973,1,Very High
+212230,"Copper, Nickel, Lead, and Zinc Mining",1.1649999618530273,1,Very High
+325212,Synthetic Rubber Manufacturing,1.1360000371932983,1,Very High
+325220,Artificial and Synthetic Fibers and Filaments Manufacturing,1.1360000371932983,1,Very High
+325180,Other Basic Inorganic Chemical Manufacturing,1.1169999837875366,1,Very High
+484110,"General Freight Trucking, Local",1.1150000095367432,1,Very High
+484121,"General Freight Trucking, Long-Distance, Truckload",1.1150000095367432,1,Very High
+484122,"General Freight Trucking, Long-Distance, Less Than Truckload",1.1150000095367432,1,Very High
+484210,Used Household and Office Goods Moving,1.1150000095367432,1,Very High
+484220,"Specialized Freight (except Used Goods) Trucking, Local",1.1150000095367432,1,Very High
+484230,"Specialized Freight (except Used Goods) Trucking, Long-Distance",1.1150000095367432,1,Very High
+311224,Soybean and Other Oilseed Processing,1.090000033378601,1,Very High
+325211,Plastics Material and Resin Manufacturing,1.0759999752044678,1,Very High
+111411,Mushroom Production,1.0429999828338623,1,Very High
+111419,Other Food Crops Grown Under Cover,1.0429999828338623,1,Very High
+111421,Nursery and Tree Production,1.0429999828338623,1,Very High
+111422,Floriculture Production,1.0429999828338623,1,Very High
+311511,Fluid Milk Manufacturing,1.0390000343322754,1,Very High
+311512,Creamery Butter Manufacturing,1.0390000343322754,1,Very High
+331110,Iron and Steel Mills and Ferroalloy Manufacturing,0.9789999723434448,1,Very High
+481111,Scheduled Passenger Air Transportation,0.9760000109672546,1,Very High
+481112,Scheduled Freight Air Transportation,0.9760000109672546,1,Very High
+481211,Nonscheduled Chartered Passenger Air Transportation,0.9760000109672546,1,Very High
+481212,Nonscheduled Chartered Freight Air Transportation,0.9760000109672546,1,Very High
+481219,Other Nonscheduled Air Transportation,0.9760000109672546,1,Very High
+322110,Pulp Mills,0.9570000171661377,1,Very High
+311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing",0.9459999799728394,1,Very High
+324122,Asphalt Shingle and Coating Materials Manufacturing,0.9160000085830688,1,Very High
+331315,"Aluminum Sheet, Plate, and Foil Manufacturing",0.8690000176429749,1,Very High
+331318,"Other Aluminum Rolling, Drawing, and Extruding",0.8690000176429749,1,Very High
+324110,Petroleum Refineries,0.859000027179718,1,Very High
+324191,Petroleum Lubricating Oil and Grease Manufacturing,0.8479999899864197,1,Very High
+324199,All Other Petroleum and Coal Products Manufacturing,0.8479999899864197,1,Very High
+313110,"Fiber, Yarn, and Thread Mills",0.8370000123977661,1,Very High
+211120,Crude Petroleum Extraction,0.8299999833106995,1,Very High
+211130,Natural Gas Extraction,0.8299999833106995,1,Very High
+311119,Other Animal Food Manufacturing,0.8090000152587891,1,Very High
+322130,Paperboard Mills,0.8029999732971191,1,Very High
+325910,Printing Ink Manufacturing,0.7839999794960022,1,Very High
+326160,Plastics Bottle Manufacturing,0.7829999923706055,1,Very High
+311225,Fats and Oils Refining and Blending,0.7559999823570251,1,Very High
+322121,Paper (except Newsprint) Mills,0.7369999885559082,1,Very High
+322122,Newsprint Mills,0.7369999885559082,1,Very High
+311411,"Frozen Fruit, Juice, and Vegetable Manufacturing",0.7179999947547913,1,Very High
+311412,Frozen Specialty Food Manufacturing,0.7179999947547913,1,Very High
+325520,Adhesive Manufacturing,0.7139999866485596,1,Very High
+336370,Motor Vehicle Metal Stamping,0.7080000042915344,1,Very High
+331410,Nonferrous Metal (except Aluminum) Smelting and Refining,0.6949999928474426,1,Very High
+212321,Construction Sand and Gravel Mining,0.6919999718666077,1,Very High
+212322,Industrial Sand Mining,0.6919999718666077,1,Very High
+212324,Kaolin and Ball Clay Mining,0.6919999718666077,1,Very High
+212325,Clay and Ceramic and Refractory Minerals Mining,0.6919999718666077,1,Very High
+212391,"Potash, Soda, and Borate Mineral Mining",0.6919999718666077,1,Very High
+212392,Phosphate Rock Mining,0.6919999718666077,1,Very High
+212393,Other Chemical and Fertilizer Mineral Mining,0.6919999718666077,1,Very High
+212399,All Other Nonmetallic Mineral Mining,0.6919999718666077,1,Very High
+327320,Ready-Mix Concrete Manufacturing,0.6869999766349792,1,Very High
+332114,Custom Roll Forming,0.6729999780654907,1,Very High
+221310,Water Supply and Irrigation Systems,0.6520000100135803,1,Very High
+221320,Sewage Treatment Facilities,0.6520000100135803,1,Very High
+221330,Steam and Air-Conditioning Supply,0.6520000100135803,1,Very High
+327999,All Other Miscellaneous Nonmetallic Mineral Product Manufacturing,0.6439999938011169,1,Very High
+332111,Iron and Steel Forging,0.640999972820282,1,Very High
+332112,Nonferrous Forging,0.640999972820282,1,Very High
+332117,Powder Metallurgy Part Manufacturing,0.640999972820282,1,Very High
+311615,Poultry Processing,0.6399999856948853,1,Very High
+331491,"Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",0.6399999856948853,1,Very High
+331492,"Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum)",0.6399999856948853,1,Very High
+311520,Ice Cream and Frozen Dessert Manufacturing,0.6370000243186951,1,Very High
+332431,Metal Can Manufacturing,0.6320000290870667,1,Very High
+332439,Other Metal Container Manufacturing,0.6320000290870667,1,Very High
+562119,Other Waste Collection,0.6320000290870667,1,Very High
+562991,Septic Tank and Related Services,0.6320000290870667,1,Very High
+562998,All Other Miscellaneous Waste Management Services,0.6320000290870667,1,Very High
+562219,Other Nonhazardous Waste Treatment and Disposal,0.6320000290870667,1,Very High
+221210,Natural Gas Distribution,0.6269999742507935,1,Very High
+331523,Nonferrous Metal Die-Casting Foundries,0.6190000176429749,1,Very High
+331524,Aluminum Foundries (except Die-Casting),0.6190000176429749,1,Very High
+331529,Other Nonferrous Metal Foundries (except Die-Casting),0.6190000176429749,1,Very High
+483111,Deep Sea Freight Transportation,0.6179999709129333,1,Very High
+483112,Deep Sea Passenger Transportation,0.6179999709129333,1,Very High
+483113,Coastal and Great Lakes Freight Transportation,0.6179999709129333,1,Very High
+483114,Coastal and Great Lakes Passenger Transportation,0.6179999709129333,1,Very High
+483211,Inland Water Freight Transportation,0.6179999709129333,1,Very High
+483212,Inland Water Passenger Transportation,0.6179999709129333,1,Very High
+326111,Plastics Bag and Pouch Manufacturing,0.6079999804496765,1,Very High
+326112,Plastics Packaging Film and Sheet (including Laminated) Manufacturing,0.6079999804496765,1,Very High
+326113,Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing,0.6079999804496765,1,Very High
+311991,Perishable Prepared Food Manufacturing,0.6029999852180481,1,Very High
+311999,All Other Miscellaneous Food Manufacturing,0.6029999852180481,1,Very High
+115111,Cotton Ginning,0.5910000205039978,1,Very High
+115112,"Soil Preparation, Planting, and Cultivating",0.5910000205039978,1,Very High
+115113,"Crop Harvesting, Primarily by Machine",0.5910000205039978,1,Very High
+115114,Postharvest Crop Activities (except Cotton Ginning),0.5910000205039978,1,Very High
+115115,Farm Labor Contractors and Crew Leaders,0.5910000205039978,1,Very High
+115116,Farm Management Services,0.5910000205039978,1,Very High
+115210,Support Activities for Animal Production,0.5910000205039978,1,Very High
+115310,Support Activities for Forestry,0.5910000205039978,1,Very High
+111211,Potato Farming,0.5879999995231628,1,Very High
+111219,Other Vegetable (except Potato) and Melon Farming,0.5879999995231628,1,Very High
+493110,General Warehousing and Storage,0.5680000185966492,1,Very High
+493120,Refrigerated Warehousing and Storage,0.5680000185966492,1,Very High
+493130,Farm Product Warehousing and Storage,0.5680000185966492,1,Very High
+493190,Other Warehousing and Storage,0.5680000185966492,1,Very High
+325920,Explosives Manufacturing,0.5669999718666077,1,Very High
+325991,Custom Compounding of Purchased Resins,0.5669999718666077,1,Very High
+325992,"Photographic Film, Paper, Plate, and Chemical Manufacturing",0.5669999718666077,1,Very High
+325998,All Other Miscellaneous Chemical Product and Preparation Manufacturing,0.5669999718666077,1,Very High
+482111,Line-Haul Railroads,0.5580000281333923,1,Very High
+482112,Short Line Railroads,0.5580000281333923,1,Very High
+331210,Iron and Steel Pipe and Tube Manufacturing from Purchased Steel,0.5490000247955322,1,Very High
+331221,Rolled Steel Shape Manufacturing,0.5490000247955322,1,Very High
+331222,Steel Wire Drawing,0.5490000247955322,1,Very High
+311920,Coffee and Tea Manufacturing,0.5490000247955322,1,Very High
+311821,Cookie and Cracker Manufacturing,0.5479999780654907,1,Very High
+311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour",0.5479999780654907,1,Very High
+311830,Tortilla Manufacturing,0.5479999780654907,1,Very High
+325320,Pesticide and Other Agricultural Chemical Manufacturing,0.546999990940094,1,Very High
+311313,Beet Sugar Manufacturing,0.5429999828338623,1,Very High
+311314,Cane Sugar Manufacturing,0.5429999828338623,1,Very High
+311340,Nonchocolate Confectionery Manufacturing,0.5429999828338623,1,Very High
+311351,Chocolate and Confectionery Manufacturing from Cacao Beans,0.5429999828338623,1,Very High
+311352,Confectionery Manufacturing from Purchased Chocolate,0.5429999828338623,1,Very High
+331420,"Copper Rolling, Drawing, Extruding, and Alloying",0.5370000004768372,1,Very High
+332811,Metal Heat Treating,0.5260000228881836,1,Very High
+332812,"Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",0.5260000228881836,1,Very High
+332813,"Electroplating, Plating, Polishing, Anodizing, and Coloring",0.5260000228881836,1,Very High
+313210,Broadwoven Fabric Mills,0.5249999761581421,1,Very High
+313220,Narrow Fabric Mills and Schiffli Machine Embroidery,0.5249999761581421,1,Very High
+313230,Nonwoven Fabric Mills,0.5249999761581421,1,Very High
+313240,Knit Fabric Mills,0.5249999761581421,1,Very High
+322220,Paper Bag and Coated and Treated Paper Manufacturing,0.5220000147819519,1,Very High
+213111,Drilling Oil and Gas Wells,0.5189999938011169,1,Very High
+311421,Fruit and Vegetable Canning,0.5180000066757202,1,Very High
+311422,Specialty Canning,0.5180000066757202,1,Very High
+311423,Dried and Dehydrated Food Manufacturing,0.5180000066757202,1,Very High
+213112,Support Activities for Oil and Gas Operations,0.5099999904632568,1,Very High
+213113,Support Activities for Coal Mining,0.5099999904632568,1,Very High
+213114,Support Activities for Metal Mining,0.5099999904632568,1,Very High
+213115,Support Activities for Nonmetallic Minerals (except Fuels) Mining,0.5099999904632568,1,Very High
+311911,Roasted Nuts and Peanut Butter Manufacturing,0.5009999871253967,1,Very High
+311919,Other Snack Food Manufacturing,0.5009999871253967,1,Very High
+111310,Orange Groves,0.5,1,Very High
+111320,Citrus (except Orange) Groves,0.5,1,Very High
+111331,Apple Orchards,0.5,1,Very High
+111332,Grape Vineyards,0.5,1,Very High
+111333,Strawberry Farming,0.5,1,Very High
+111334,Berry (except Strawberry) Farming,0.5,1,Very High
+111335,Tree Nut Farming,0.5,1,Very High
+111336,Fruit and Tree Nut Combination Farming,0.5,1,Very High
+111339,Other Noncitrus Fruit Farming,0.5,1,Very High
+485111,Mixed Mode Transit Systems,0.49900001287460327,1,Very High
+485112,Commuter Rail Systems,0.49900001287460327,1,Very High
+485113,Bus and Other Motor Vehicle Transit Systems,0.49900001287460327,1,Very High
+485119,Other Urban Transit Systems,0.49900001287460327,1,Very High
+485210,Interurban and Rural Bus Transportation,0.49900001287460327,1,Very High
+485310,Taxi Service,0.49900001287460327,1,Very High
+485320,Limousine Service,0.49900001287460327,1,Very High
+485410,School and Employee Bus Transportation,0.49900001287460327,1,Very High
+485510,Charter Bus Industry,0.49900001287460327,1,Very High
+485991,Special Needs Transportation,0.49900001287460327,1,Very High
+485999,All Other Transit and Ground Passenger Transportation,0.49900001287460327,1,Very High
+326130,"Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing",0.4970000088214874,1,Very High
+327992,Ground or Treated Mineral and Earth Manufacturing,0.4959999918937683,1,Very High
+335991,Carbon and Graphite Product Manufacturing,0.4950000047683716,1,Very High
+327211,Flat Glass Manufacturing,0.49000000953674316,1,Very High
+327212,Other Pressed and Blown Glass and Glassware Manufacturing,0.49000000953674316,1,Very High
+327213,Glass Container Manufacturing,0.49000000953674316,1,Very High
+327215,Glass Product Manufacturing Made of Purchased Glass,0.49000000953674316,1,Very High
+322211,Corrugated and Solid Fiber Box Manufacturing,0.49000000953674316,1,Very High
+322212,Folding Paperboard Box Manufacturing,0.49000000953674316,1,Very High
+322219,Other Paperboard Container Manufacturing,0.49000000953674316,1,Very High
+311230,Breakfast Cereal Manufacturing,0.48500001430511475,1,Very High
+311111,Dog and Cat Food Manufacturing,0.4779999852180481,1,Very High
+326291,Rubber Product Manufacturing for Mechanical Use,0.47099998593330383,1,Very High
+326299,All Other Rubber Product Manufacturing,0.47099998593330383,1,Very High
+325510,Paint and Coating Manufacturing,0.4690000116825104,1,Very High
+322299,All Other Converted Paper Product Manufacturing,0.46299999952316284,1,Very High
+313310,Textile and Fabric Finishing Mills,0.4519999921321869,1,Very High
+313320,Fabric Coating Mills,0.4519999921321869,1,Very High
+327993,Mineral Wool Manufacturing,0.44999998807907104,1,Very High
+311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing",0.4490000009536743,1,Very High
+311942,Spice and Extract Manufacturing,0.4490000009536743,1,Very High
+311930,Flavoring Syrup and Concentrate Manufacturing,0.4480000138282776,2,High
+312140,Distilleries,0.44600000977516174,2,High
+331511,Iron Foundries,0.44600000977516174,2,High
+331512,Steel Investment Foundries,0.44600000977516174,2,High
+331513,Steel Foundries (except Investment),0.44600000977516174,2,High
+335110,Electric Lamp Bulb and Part Manufacturing,0.4350000023841858,2,High
+326121,Unlaminated Plastics Profile Shape Manufacturing,0.4339999854564667,2,High
+326122,Plastics Pipe and Pipe Fitting Manufacturing,0.4339999854564667,2,High
+326211,Tire Manufacturing (except Retreading),0.4300000071525574,2,High
+326212,Tire Retreading,0.4300000071525574,2,High
+322230,Stationery Product Manufacturing,0.4180000126361847,2,High
+332420,Metal Tank (Heavy Gauge) Manufacturing,0.4169999957084656,2,High
+336510,Railroad Rolling Stock Manufacturing,0.41499999165534973,2,High
+322291,Sanitary Paper Product Manufacturing,0.41100001335144043,2,High
+332119,"Metal Crown, Closure, and Other Metal Stamping (except Automotive)",0.4059999883174896,2,High
+325611,Soap and Other Detergent Manufacturing,0.4050000011920929,2,High
+325612,Polish and Other Sanitation Good Manufacturing,0.4050000011920929,2,High
+325613,Surface Active Agent Manufacturing,0.4050000011920929,2,High
+326191,Plastics Plumbing Fixture Manufacturing,0.40299999713897705,2,High
+326199,All Other Plastics Product Manufacturing,0.40299999713897705,2,High
+326150,Urethane and Other Foam Product (except Polystyrene) Manufacturing,0.39899998903274536,2,High
+327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing",0.39800000190734863,2,High
+327120,Clay Building Material and Refractories Manufacturing,0.39800000190734863,2,High
+336992,"Military Armored Vehicle, Tank, and Tank Component Manufacturing",0.3959999978542328,2,High
+336390,Other Motor Vehicle Parts Manufacturing,0.39500001072883606,2,High
+336360,Motor Vehicle Seating and Interior Trim Manufacturing,0.39399999380111694,2,High
+336330,Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing,0.3919999897480011,2,High
+336340,Motor Vehicle Brake System Manufacturing,0.3919999897480011,2,High
+336350,Motor Vehicle Transmission and Power Train Parts Manufacturing,0.39100000262260437,2,High
+312111,Soft Drink Manufacturing,0.3779999911785126,2,High
+312112,Bottled Water Manufacturing,0.3779999911785126,2,High
+312113,Ice Manufacturing,0.3779999911785126,2,High
+312120,Breweries,0.37700000405311584,2,High
+311710,Seafood Product Preparation and Packaging,0.37599998712539673,2,High
+332613,Spring Manufacturing,0.3720000088214874,2,High
+332618,Other Fabricated Wire Product Manufacturing,0.3720000088214874,2,High
+327331,Concrete Block and Brick Manufacturing,0.3709999918937683,2,High
+327332,Concrete Pipe Manufacturing,0.3709999918937683,2,High
+333511,Industrial Mold Manufacturing,0.36800000071525574,2,High
+332996,Fabricated Pipe and Pipe Fitting Manufacturing,0.36500000953674316,2,High
+327390,Other Concrete Product Manufacturing,0.36500000953674316,2,High
+335921,Fiber Optic Cable Manufacturing,0.35899999737739563,2,High
+335929,Other Communication and Energy Wire Manufacturing,0.35899999737739563,2,High
+237110,Water and Sewer Line and Related Structures Construction,0.3540000021457672,2,High
+237120,Oil and Gas Pipeline and Related Structures Construction,0.3540000021457672,2,High
+237130,Power and Communication Line and Related Structures Construction,0.3540000021457672,2,High
+531120,Lessors of Nonresidential Buildings (excpet Miniwarehouses),0.35100001096725464,2,High
+531130,Lessors of Miniwarehouses and Self-Storage Units,0.35100001096725464,2,High
+531190,Lessors of Other Real Estate Property,0.35100001096725464,2,High
+531210,Offices of Real Estate Agents and Brokers,0.35100001096725464,2,High
+531311,Residential Property Managers,0.35100001096725464,2,High
+531312,Nonresidential Property Managers,0.35100001096725464,2,High
+531320,Offices of Real Estate Appraisers,0.35100001096725464,2,High
+531390,Other Activities Related to Real Estate,0.35100001096725464,2,High
+332311,Prefabricated Metal Building and Component Manufacturing,0.3499999940395355,2,High
+332312,Fabricated Structural Metal Manufacturing,0.3499999940395355,2,High
+332313,Plate Work Manufacturing,0.3499999940395355,2,High
+326140,Polystyrene Foam Product Manufacturing,0.34700000286102295,2,High
+323111,Commercial Printing (except Screen and Books),0.34700000286102295,2,High
+323113,Commercial Screen Printing,0.34700000286102295,2,High
+323117,Books Printing,0.34700000286102295,2,High
+336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing,0.34599998593330383,2,High
+337215,"Showcase, Partition, Shelving, and Locker Manufacturing",0.33899998664855957,2,High
+326220,Rubber and Plastics Hoses and Belting Manufacturing,0.33500000834465027,2,High
+332721,Precision Turned Product Manufacturing,0.3319999873638153,2,High
+332722,"Bolt, Nut, Screw, Rivet, and Washer Manufacturing",0.3319999873638153,2,High
+212311,Dimension Stone Mining and Quarrying,0.3230000138282776,2,High
+212312,Crushed and Broken Limestone Mining and Quarrying,0.3230000138282776,2,High
+212313,Crushed and Broken Granite Mining and Quarrying,0.3230000138282776,2,High
+212319,Other Crushed and Broken Stone Mining and Quarrying,0.3230000138282776,2,High
+336112,Light Truck and Utility Vehicle Manufacturing,0.32199999690055847,2,High
+332999,All Other Miscellaneous Fabricated Metal Product Manufacturing,0.3199999928474426,2,High
+339950,Sign Manufacturing,0.3199999928474426,2,High
+333618,Other Engine Equipment Manufacturing,0.3179999887943268,2,High
+332710,Machine Shops,0.3140000104904175,2,High
+335911,Storage Battery Manufacturing,0.3140000104904175,2,High
+311811,Retail Bakeries,0.3140000104904175,2,High
+311812,Commercial Bakeries,0.3140000104904175,2,High
+311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing",0.3140000104904175,2,High
+713910,Golf Courses and Country Clubs,0.31200000643730164,2,High
+713920,Skiing Facilities,0.31200000643730164,2,High
+713930,Marinas,0.31200000643730164,2,High
+713940,Fitness and Recreational Sports Centers,0.31200000643730164,2,High
+713950,Bowling Centers,0.31200000643730164,2,High
+713990,All Other Amusement and Recreation Industries,0.31200000643730164,2,High
+236210,Industrial Building Construction,0.3100000023841858,2,High
+314110,Carpet and Rug Mills,0.30799999833106995,2,High
+336120,Heavy Duty Truck Manufacturing,0.3070000112056732,2,High
+337211,Wood Office Furniture Manufacturing,0.3050000071525574,2,High
+337212,Custom Architectural Woodwork and Millwork Manufacturing,0.3050000071525574,2,High
+337214,Office Furniture (except Wood) Manufacturing,0.3050000071525574,2,High
+333131,Mining Machinery and Equipment Manufacturing,0.3019999861717224,2,High
+333132,Oil and Gas Field Machinery and Equipment Manufacturing,0.3019999861717224,2,High
+113110,Timber Tract Operations,0.3009999990463257,2,High
+113210,Forest Nurseries and Gathering of Forest Products,0.3009999990463257,2,High
+113310,Logging,0.3009999990463257,2,High
+335210,Small Electrical Appliance Manufacturing,0.30000001192092896,2,High
+337127,Institutional Furniture Manufacturing,0.29899999499320984,2,High
+237310,"Highway, Street, and Bridge Construction",0.296999990940094,2,High
+327991,Cut Stone and Stone Product Manufacturing,0.29600000381469727,2,High
+333921,Elevator and Moving Stairway Manufacturing,0.29600000381469727,2,High
+333922,Conveyor and Conveying Equipment Manufacturing,0.29600000381469727,2,High
+333923,"Overhead Traveling Crane, Hoist, and Monorail System Manufacturing",0.29600000381469727,2,High
+333924,"Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing",0.29600000381469727,2,High
+337124,Metal Household Furniture Manufacturing,0.2939999997615814,2,High
+337125,Household Furniture (except Wood and Metal) Manufacturing,0.2939999997615814,2,High
+339940,Office Supplies (except Paper) Manufacturing,0.2919999957084656,2,High
+336999,All Other Transportation Equipment Manufacturing,0.29100000858306885,2,High
+722513,Limited-Service Restaurants,0.28700000047683716,2,High
+323120,Support Activites for Printing,0.28600001335144043,2,High
+336320,Motor Vehicle Electrical and Electronic Equipment Manufacturing,0.2849999964237213,2,High
+332321,Metal Window and Door Manufacturing,0.2840000092983246,2,High
+332322,Sheet Metal Work Manufacturing,0.2840000092983246,2,High
+332323,Ornamental and Architectural Metal Work Manufacturing,0.2840000092983246,2,High
+335311,"Power, Distribution, and Specialty Transformer Manufacturing",0.2800000011920929,2,High
+336111,Automobile Manufacturing,0.27900001406669617,2,High
+332991,Ball and Roller Bearing Manufacturing,0.2770000100135803,2,High
+236118,Residential Remodelers,0.2770000100135803,2,High
+321113,Sawmills,0.27399998903274536,2,High
+321114,Wood Preservation,0.27399998903274536,2,High
+333995,Fluid Power Cylinder and Actuator Manufacturing,0.27399998903274536,2,High
+333996,Fluid Power Pump and Motor Manufacturing,0.27399998903274536,2,High
+333111,Farm Machinery and Equipment Manufacturing,0.2709999978542328,2,High
+237990,Other Heavy and Civil Engineering Construction,0.27000001072883606,2,High
+334413,Semiconductor and Related Device Manufacturing,0.26899999380111694,2,High
+114111,Finfish Fishing,0.2669999897480011,2,High
+114112,Shellfish Fishing,0.2669999897480011,2,High
+114119,Other Marine Fishing,0.2669999897480011,2,High
+114210,Hunting and Trapping,0.2669999897480011,2,High
+333515,Cutting Tool and Machine Tool Accessory Manufacturing,0.26600000262260437,2,High
+333519,Rolling Mill and Other Metalworking Machinery Manufacturing,0.26600000262260437,2,High
+333611,Turbine and Turbine Generator Set Units Manufacturing,0.2630000114440918,2,High
+333517,Machine Tool Manufacturing,0.2630000114440918,2,High
+333514,"Special Die and Tool, Die Set, Jig, and Fixture Manufacturing",0.2630000114440918,2,High
+314910,Textile Bag and Canvas Mills,0.2630000114440918,2,High
+314994,"Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills",0.2630000114440918,2,High
+314999,All Other Miscellaneous Textile Product Mills,0.2630000114440918,2,High
+336212,Truck Trailer Manufacturing,0.2619999945163727,2,High
+335931,Current-Carrying Wiring Device Manufacturing,0.26100000739097595,2,High
+335932,Noncurrent-Carrying Wiring Device Manufacturing,0.26100000739097595,2,High
+333997,Scale and Balance Manufacturing,0.25999999046325684,2,High
+333999,All Other Miscellaneous General Purpose Machinery Manufacturing,0.25999999046325684,2,High
+333992,Welding and Soldering Equipment Manufacturing,0.25999999046325684,2,High
+325411,Medicinal and Botanical Manufacturing,0.25999999046325684,2,High
+336214,Travel Trailer and Camper Manufacturing,0.25699999928474426,2,High
+492110,Couriers and Express Delivery Services,0.25699999928474426,2,High
+492210,Local Messengers and Local Delivery,0.25699999928474426,2,High
+316110,Leather and Hide Tanning and Finishing,0.25600001215934753,2,High
+316210,Footwear Manufacturing,0.25600001215934753,2,High
+316992,Women's Handbag and Purse Manufacturing,0.25600001215934753,2,High
+316998,All Other Leather Good and Allied Product Manufacturing,0.25600001215934753,2,High
+236220,Commercial and Institutional Building Construction,0.25600001215934753,2,High
+333613,Mechanical Power Transmission Equipment Manufacturing,0.25099998712539673,2,High
+335121,Residential Electric Lighting Fixture Manufacturing,0.25,2,High
+335122,"Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing",0.25,2,High
+335129,Other Lighting Equipment Manufacturing,0.25,2,High
+337121,Upholstered Household Furniture Manufacturing,0.24899999797344208,2,High
+624210,Community Food Services,0.24799999594688416,2,High
+624221,Temporary Shelters,0.24799999594688416,2,High
+624229,Other Community Housing Services,0.24799999594688416,2,High
+624230,Emergency and Other Relief Services,0.24799999594688416,2,High
+624310,Vocational Rehabilitation Services,0.24799999594688416,2,High
+336211,Motor Vehicle Body Manufacturing,0.24699999392032623,2,High
+333120,Construction Machinery Manufacturing,0.2460000067949295,2,High
+336611,Ship Building and Repairing,0.24500000476837158,2,High
+238110,Poured Concrete Foundation and Structure Contractors,0.24500000476837158,2,High
+238120,Structural Steel and Precast Concrete Contractors,0.24500000476837158,2,High
+238130,Framing Contractors,0.24500000476837158,2,High
+238140,Masonry Contractors,0.24500000476837158,2,High
+238150,Glass and Glazing Contractors,0.24500000476837158,2,High
+238160,Roofing Contractors,0.24500000476837158,2,High
+238170,Siding Contractors,0.24500000476837158,2,High
+238190,"Other Foundation, Structure, and Building Exterior Contractors",0.24500000476837158,2,High
+238210,Electrical Contractors and Other Wiring Installation Contractors,0.24500000476837158,2,High
+238220,"Plumbing, Heating, and Air-Conditioning Contractors",0.24500000476837158,2,High
+238290,Other Building Equipment Contractors,0.24500000476837158,2,High
+238310,Drywall and Insulation Contractors,0.24500000476837158,2,High
+238320,Painting and Wall Covering Contractors,0.24500000476837158,2,High
+238330,Flooring Contractors,0.24500000476837158,2,High
+238340,Tile and Terrazzo Contractors,0.24500000476837158,2,High
+238350,Finish Carpentry Contractors,0.24500000476837158,2,High
+238390,Other Building Finishing Contractors,0.24500000476837158,2,High
+238910,Site Preparation Contractors,0.24500000476837158,2,High
+238990,All Other Specialty Trade Contractors,0.24500000476837158,2,High
+327910,Abrasive Product Manufacturing,0.24400000274181366,2,High
+333318,Other Commercial and Service Industry Machinery Manufacturing,0.24400000274181366,2,High
+333413,Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing,0.24199999868869781,2,High
+332919,Other Metal Valve and Pipe Fitting Manufacturing,0.23999999463558197,2,High
+332911,Industrial Valve Manufacturing,0.23999999463558197,2,High
+332912,Fluid Power Valve and Hose Fitting Manufacturing,0.23999999463558197,2,High
+332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing",0.23999999463558197,2,High
+332216,Saw Blade and Handtool Manufacturing,0.23999999463558197,2,High
+335313,Switchgear and Switchboard Apparatus Manufacturing,0.23999999463558197,2,High
+237210,Land Subdivision,0.23899999260902405,2,High
+445110,Supermarkets and Other Grocery (except Convenience) Stores,0.23800000548362732,2,High
+445120,Convenience Stores,0.23800000548362732,2,High
+445210,Meat Markets,0.23800000548362732,2,High
+445220,Fish and Seafood Markets,0.23800000548362732,2,High
+445230,Fruit and Vegetable Markets,0.23800000548362732,2,High
+445291,Baked Goods Stores,0.23800000548362732,2,High
+445292,Confectionery and Nut Stores,0.23800000548362732,2,High
+445299,All Other Specialty Food Stores,0.23800000548362732,2,High
+445310,"Beer, Wine, and Liquor Stores",0.23800000548362732,2,High
+333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing,0.23600000143051147,2,High
+424410,General Line Grocery Merchant Wholesalers,0.23499999940395355,2,High
+424420,Packaged Frozen Food Merchant Wholesalers,0.23499999940395355,2,High
+424430,Dairy Product (except Dried or Canned) Merchant Wholesalers,0.23499999940395355,2,High
+424440,Poultry and Poultry Product Merchant Wholesalers,0.23499999940395355,2,High
+424450,Confectionery Merchant Wholesalers,0.23499999940395355,2,High
+424460,Fish and Seafood Merchant Wholesalers,0.23499999940395355,2,High
+424470,Meat and Meat Product Merchant Wholesalers,0.23499999940395355,2,High
+424480,Fresh Fruit and Vegetable Merchant Wholesalers,0.23499999940395355,2,High
+424490,Other Grocery and Related Products Merchant Wholesalers,0.23499999940395355,2,High
+332410,Power Boiler and Heat Exchanger Manufacturing,0.23399999737739563,2,High
+333612,"Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing",0.2329999953508377,2,High
+335312,Motor and Generator Manufacturing,0.2290000021457672,2,High
+336991,"Motorcycle, Bicycle, and Parts Manufacturing",0.2290000021457672,2,High
+339920,Sporting and Athletic Goods Manufacturing,0.2280000001192093,2,High
+335220,Major Household Appliance Manufacturing,0.2280000001192093,2,High
+335912,Primary Battery Manufacturing,0.22699999809265137,2,High
+333994,Industrial Process Furnace and Oven Manufacturing,0.22599999606609344,2,High
+337910,Mattress Manufacturing,0.22499999403953552,2,High
+337920,Blind and Shade Manufacturing,0.22499999403953552,2,High
+339991,"Gasket, Packing, and Sealing Device Manufacturing",0.22499999403953552,2,High
+339992,Musical Instrument Manufacturing,0.22499999403953552,2,High
+339993,"Fastener, Button, Needle, and Pin Manufacturing",0.22499999403953552,2,High
+339994,"Broom, Brush, and Mop Manufacturing",0.22499999403953552,2,High
+339995,Burial Casket Manufacturing,0.22499999403953552,2,High
+339999,All Other Miscellaneous Manufacturing,0.22499999403953552,2,High
+332510,Hardware Manufacturing,0.2199999988079071,2,High
+314120,Curtain and Linen Mills,0.2199999988079071,2,High
+321211,Hardwood Veneer and Plywood Manufacturing,0.21799999475479126,2,High
+321212,Softwood Veneer and Plywood Manufacturing,0.21799999475479126,2,High
+321213,Engineered Wood Member (except Truss) Manufacturing,0.21799999475479126,2,High
+321214,Truss Manufacturing,0.21799999475479126,2,High
+321219,Reconstituted Wood Product Manufacturing,0.21799999475479126,2,High
+333912,Air and Gas Compressor Manufacturing,0.21799999475479126,2,High
+722511,Full-Service Restaurants,0.21799999475479126,2,High
+333242,Semiconductor Machinery Manufacturing,0.21699999272823334,2,High
+334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing,0.2150000035762787,2,High
+336413,Other Aircraft Parts and Auxiliary Equipment Manufacturing,0.2150000035762787,2,High
+337122,Nonupholstered Wood Household Furniture Manufacturing,0.21299999952316284,2,High
+561210,Facilities Support Services,0.21299999952316284,2,High
+333243,"Sawmill, Woodworking, and Paper Machinery Manufacturing",0.20999999344348907,2,High
+333244,Printing Machinery and Equipment Manufacturing,0.20999999344348907,2,High
+333249,Other Industrial Machinery Manufacturing,0.20999999344348907,2,High
+333241,Food Product Machinery Manufacturing,0.20999999344348907,2,High
+312130,Wineries,0.20999999344348907,2,High
+487110,"Scenic and Sightseeing Transportation, Land",0.20800000429153442,2,High
+487210,"Scenic and Sightseeing Transportation, Water",0.20800000429153442,2,High
+487990,"Scenic and Sightseeing Transportation, Other",0.20800000429153442,2,High
+488111,Air Traffic Control,0.20800000429153442,2,High
+488119,Other Airport Operations,0.20800000429153442,2,High
+488190,Other Support Activities for Air Transportation,0.20800000429153442,2,High
+488210,Support Activities for Rail Transportation,0.20800000429153442,3,Medium
+488310,Port and Harbor Operations,0.20800000429153442,3,Medium
+488320,Marine Cargo Handling,0.20800000429153442,3,Medium
+488330,Navigational Services to Shipping,0.20800000429153442,3,Medium
+488390,Other Support Activities for Water Transportation,0.20800000429153442,3,Medium
+488410,Motor Vehicle Towing,0.20800000429153442,3,Medium
+488490,Other Support Activities for Road Transportation,0.20800000429153442,3,Medium
+488510,Freight Transportation Arrangement,0.20800000429153442,3,Medium
+488991,Packing and Crating,0.20800000429153442,3,Medium
+488999,All Other Support Activities for Transportation,0.20800000429153442,3,Medium
+333414,Heating Equipment (except Warm Air Furnaces) Manufacturing,0.2070000022649765,3,Medium
+448110,Men's Clothing Stores,0.20399999618530273,3,Medium
+448120,Women's Clothing Stores,0.20399999618530273,3,Medium
+448130,Children's and Infants' Clothing Stores,0.20399999618530273,3,Medium
+448140,Family Clothing Stores,0.20399999618530273,3,Medium
+448150,Clothing Accessories Stores,0.20399999618530273,3,Medium
+448190,Other Clothing Stores,0.20399999618530273,3,Medium
+448210,Shoe Stores,0.20399999618530273,3,Medium
+448310,Jewelry Stores,0.20399999618530273,3,Medium
+448320,Luggage and Leather Goods Stores,0.20399999618530273,3,Medium
+333914,"Measuring, Dispensing, and Other Pumping Equipment Manufacturing",0.20200000703334808,3,Medium
+336213,Motor Home Manufacturing,0.20200000703334808,3,Medium
+334210,Telephone Apparatus Manufacturing,0.20100000500679016,3,Medium
+321920,Wood Container and Pallet Manufacturing,0.20000000298023224,3,Medium
+321991,Manufactured Home (Mobile Home) Manufacturing,0.20000000298023224,3,Medium
+321992,Prefabricated Wood Building Manufacturing,0.20000000298023224,3,Medium
+321999,All Other Miscellaneous Wood Product Manufacturing,0.20000000298023224,3,Medium
+325620,Toilet Preparation Manufacturing,0.19900000095367432,3,Medium
+334517,Irradiation Apparatus Manufacturing,0.19699999690055847,3,Medium
+562111,Solid Waste Collection,0.19699999690055847,3,Medium
+813110,Religious Organizations,0.19699999690055847,3,Medium
+447110,Gasoline Stations with Convenience Stores,0.19599999487400055,3,Medium
+447190,Other Gasoline Stations,0.19599999487400055,3,Medium
+337110,Wood Kitchen Cabinet and Countertop Manufacturing,0.19599999487400055,3,Medium
+236117,New Housing For-Sale Builders,0.19499999284744263,3,Medium
+332992,Small Arms Ammunition Manufacturing,0.1940000057220459,3,Medium
+332993,Ammunition (except Small Arms) Manufacturing,0.1940000057220459,3,Medium
+332994,"Small Arms, Ordnance, and Ordnance Accessories Manufacturing",0.1940000057220459,3,Medium
+452210,Department Stores,0.1940000057220459,3,Medium
+452311,Warehouse Clubs and Supercenters,0.1940000057220459,3,Medium
+452319,All Other General Merchandise Stores,0.1940000057220459,3,Medium
+332913,Plumbing Fixture Fitting and Trim Manufacturing,0.19300000369548798,3,Medium
+333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing,0.19200000166893005,3,Medium
+339112,Surgical and Medical Instrument Manufacturing,0.1899999976158142,3,Medium
+491110,Postal Service,0.1899999976158142,3,Medium
+339930,"Doll, Toy, and Game Manufacturing",0.18700000643730164,3,Medium
+424510,Grain and Field Bean Merchant Wholesalers,0.18700000643730164,3,Medium
+424520,Livestock Merchant Wholesalers,0.18700000643730164,3,Medium
+424590,Other Farm Product Raw Material Merchant Wholesalers,0.18700000643730164,3,Medium
+424610,Plastics Materials and Basic Forms and Shapes Merchant Wholesalers,0.18700000643730164,3,Medium
+424690,Other Chemical and Allied Products Merchant Wholesalers,0.18700000643730164,3,Medium
+424110,Printing and Writing Paper Merchant Wholesalers,0.18700000643730164,3,Medium
+424120,Stationery and Office Supplies Merchant Wholesalers,0.18700000643730164,3,Medium
+424130,Industrial and Personal Service Paper Merchant Wholesalers,0.18700000643730164,3,Medium
+424810,Beer and Ale Merchant Wholesalers,0.18700000643730164,3,Medium
+424820,Wine and Distilled Alcoholic Beverage Merchant Wholesalers,0.18700000643730164,3,Medium
+424910,Farm Supplies Merchant Wholesalers,0.18700000643730164,3,Medium
+424920,"Book, Periodical, and Newspaper Merchant Wholesalers",0.18700000643730164,3,Medium
+424930,"Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",0.18700000643730164,3,Medium
+424940,Tobacco and Tobacco Product Merchant Wholesalers,0.18700000643730164,3,Medium
+424950,"Paint, Varnish, and Supplies Merchant Wholesalers",0.18700000643730164,3,Medium
+424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers,0.18700000643730164,3,Medium
+424310,"Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers",0.18700000643730164,3,Medium
+424320,Men's and Boys' Clothing and Furnishings Merchant Wholesalers,0.18700000643730164,3,Medium
+424330,"Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers",0.18700000643730164,3,Medium
+424340,Footwear Merchant Wholesalers,0.18700000643730164,3,Medium
+321911,Wood Window and Door Manufacturing,0.18700000643730164,3,Medium
+321912,"Cut Stock, Resawing Lumber, and Planing",0.18700000643730164,3,Medium
+321918,Other Millwork (including Flooring),0.18700000643730164,3,Medium
+333993,Packaging Machinery Manufacturing,0.1860000044107437,3,Medium
+334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing,0.18299999833106995,3,Medium
+721110,Hotels (except Casino Hotels) and Motels,0.18299999833106995,3,Medium
+721120,Casino Hotels,0.18299999833106995,3,Medium
+721191,Bed-and-Breakfast Inns,0.18299999833106995,3,Medium
+721199,All Other Traveler Accommodation,0.18299999833106995,3,Medium
+721211,RV (Recreational Vehicle) Parks and Campgrounds,0.18299999833106995,3,Medium
+721214,Recreational and Vacation Camps (except Campgrounds),0.18299999833106995,3,Medium
+721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps",0.18299999833106995,3,Medium
+621910,Ambulance Services,0.1809999942779541,3,Medium
+621991,Blood and Organ Banks,0.1809999942779541,3,Medium
+621999,All Other Miscellaneous Ambulatory Health Care Services,0.1809999942779541,3,Medium
+333316,Photographic and Photocopying Equipment Manufacturing,0.17900000512599945,3,Medium
+333314,Optical Instrument and Lens Manufacturing,0.17800000309944153,3,Medium
+335999,All Other Miscellaneous Electrical Equipment and Component Manufacturing,0.17599999904632568,3,Medium
+541713,Research and Development in Nanotechnology,0.17399999499320984,3,Medium
+541714,Research and Development in Biotechnology (except Nanobiotechnology),0.17399999499320984,3,Medium
+541715,"Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology)",0.17399999499320984,3,Medium
+541720,Research and Development in the Social Sciences and Humanities,0.17399999499320984,3,Medium
+339113,Surgical Appliance and Supplies Manufacturing,0.17000000178813934,3,Medium
+339114,Dental Equipment and Supplies Manufacturing,0.17000000178813934,3,Medium
+611210,Junior Colleges,0.1679999977350235,3,Medium
+611310,"Colleges, Universities, and Professional Schools",0.1679999977350235,3,Medium
+517312,Wireless Telecommunications Carriers (except Satellite),0.1679999977350235,3,Medium
+561710,Exterminating and Pest Control Services,0.16699999570846558,3,Medium
+561720,Janitorial Services,0.16699999570846558,3,Medium
+561730,Landscaping Services,0.16699999570846558,3,Medium
+561740,Carpet and Upholstery Cleaning Services,0.16699999570846558,3,Medium
+561790,Other Services to Buildings and Dwellings,0.16699999570846558,3,Medium
+334412,Bare Printed Circuit Board Manufacturing,0.16699999570846558,3,Medium
+334416,"Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing",0.16699999570846558,3,Medium
+334417,Electronic Connector Manufacturing,0.16699999570846558,3,Medium
+334419,Other Electronic Component Manufacturing,0.16699999570846558,3,Medium
+336612,Boat Building,0.16599999368190765,3,Medium
+236115,New Single-Family Housing Construction (except For-Sale Builders),0.16599999368190765,3,Medium
+624410,Child Day Care Services,0.16599999368190765,3,Medium
+525110,Pension Funds,0.16599999368190765,3,Medium
+525120,Health and Welfare Funds,0.16599999368190765,3,Medium
+525190,Other Insurance Funds,0.16599999368190765,3,Medium
+525910,Open-End Investment Funds,0.16599999368190765,3,Medium
+525920,"Trusts, Estates, and Agency Accounts",0.16599999368190765,3,Medium
+525990,Other Financial Vehicles,0.16599999368190765,3,Medium
+333991,Power-Driven Handtool Manufacturing,0.16500000655651093,3,Medium
+336414,Guided Missile and Space Vehicle Manufacturing,0.164000004529953,3,Medium
+442110,Furniture Stores,0.16300000250339508,3,Medium
+442210,Floor Covering Stores,0.16300000250339508,3,Medium
+442291,Window Treatment Stores,0.16300000250339508,3,Medium
+442299,All Other Home Furnishings Stores,0.16300000250339508,3,Medium
+443141,Household Appliance Stores,0.16300000250339508,3,Medium
+443142,Electronics Stores,0.16300000250339508,3,Medium
+453110,Florists,0.16300000250339508,3,Medium
+453210,Office Supplies and Stationery Stores,0.16300000250339508,3,Medium
+453220,"Gift, Novelty, and Souvenir Stores",0.16300000250339508,3,Medium
+453310,Used Merchandise Stores,0.16300000250339508,3,Medium
+453910,Pet and Pet Supplies Stores,0.16300000250339508,3,Medium
+453920,Art Dealers,0.16300000250339508,3,Medium
+453930,Manufactured (Mobile) Home Dealers,0.16300000250339508,3,Medium
+453991,Tobacco Stores,0.16300000250339508,3,Medium
+453998,All Other Miscellaneous Store Retailers (except Tobacco Stores),0.16300000250339508,3,Medium
+451110,Sporting Goods Stores,0.16300000250339508,3,Medium
+451120,"Hobby, Toy, and Game Stores",0.16300000250339508,3,Medium
+451130,"Sewing, Needlework, and Piece Goods Stores",0.16300000250339508,3,Medium
+451140,Musical Instrument and Supplies Stores,0.16300000250339508,3,Medium
+451211,Book Stores,0.16300000250339508,3,Medium
+451212,News Dealers and Newsstands,0.16300000250339508,3,Medium
+623990,Other Residential Care Facilities,0.16300000250339508,3,Medium
+623210,Residential Intellectual and Developmental Disability Facilities,0.16300000250339508,3,Medium
+623220,Residential Mental Health and Substance Abuse Facilities,0.16300000250339508,3,Medium
+562910,Remediation Services,0.16300000250339508,3,Medium
+713210,Casinos (except Casino Hotels),0.16300000250339508,3,Medium
+713290,Other Gambling Industries,0.16300000250339508,3,Medium
+812310,Coin-Operated Laundries and Drycleaners,0.16200000047683716,3,Medium
+812320,Drycleaning and Laundry Services (except Coin-Operated),0.16200000047683716,3,Medium
+812331,Linen Supply,0.16200000047683716,3,Medium
+812332,Industrial Launderers,0.16200000047683716,3,Medium
+511140,Directory and Mailing List Publishers,0.1599999964237213,3,Medium
+511191,Greeting Card Publishers,0.1599999964237213,3,Medium
+511199,All Other Publishers,0.1599999964237213,3,Medium
+562920,Materials Recovery Facilities,0.15800000727176666,3,Medium
+334418,Printed Circuit Assembly (Electronic Assembly) Manufacturing,0.15800000727176666,3,Medium
+623311,Continuing Care Retirement Communities,0.15700000524520874,3,Medium
+623312,Assisted Living Facilities for the Elderly,0.15700000524520874,3,Medium
+622110,General Medical and Surgical Hospitals,0.15700000524520874,3,Medium
+622210,Psychiatric and Substance Abuse Hospitals,0.15700000524520874,3,Medium
+622310,Specialty (except Psychiatric and Substance Abuse) Hospitals,0.15700000524520874,3,Medium
+623110,Nursing Care Facilities (Skilled Nursing Facilities),0.15700000524520874,3,Medium
+712110,Museums,0.15600000321865082,3,Medium
+712120,Historical Sites,0.15600000321865082,3,Medium
+712130,Zoos and Botanical Gardens,0.15600000321865082,3,Medium
+712190,Nature Parks and Other Similar Institutions,0.15600000321865082,3,Medium
+339910,Jewelry and Silverware Manufacturing,0.15600000321865082,3,Medium
+722514,"Cafeterias, Grill Buffets, and Buffets",0.1550000011920929,3,Medium
+722515,Snack and Nonalcoholic Beverage Bars,0.1550000011920929,3,Medium
+722310,Food Service Contractors,0.1550000011920929,3,Medium
+722320,Caterers,0.1550000011920929,3,Medium
+722330,Mobile Food Services,0.1550000011920929,3,Medium
+722410,Drinking Places (Alcoholic Beverages),0.1550000011920929,3,Medium
+335314,Relay and Industrial Control Manufacturing,0.15299999713897705,3,Medium
+446110,Pharmacies and Drug Stores,0.1509999930858612,3,Medium
+446120,"Cosmetics, Beauty Supplies, and Perfume Stores",0.1509999930858612,3,Medium
+446130,Optical Goods Stores,0.1509999930858612,3,Medium
+446191,Food (Health) Supplement Stores,0.1509999930858612,3,Medium
+446199,All Other Health and Personal Care Stores,0.1509999930858612,3,Medium
+336411,Aircraft Manufacturing,0.15000000596046448,3,Medium
+423110,Automobile and Other Motor Vehicle Merchant Wholesalers,0.14900000393390656,3,Medium
+423120,Motor Vehicle Supplies and New Parts Merchant Wholesalers,0.14900000393390656,3,Medium
+423130,Tire and Tube Merchant Wholesalers,0.14900000393390656,3,Medium
+423140,Motor Vehicle Parts (Used) Merchant Wholesalers,0.14900000393390656,3,Medium
+518210,"Data Processing, Hosting, and Related Services",0.14800000190734863,3,Medium
+423210,Furniture Merchant Wholesalers,0.1469999998807907,3,Medium
+423220,Home Furnishing Merchant Wholesalers,0.1469999998807907,3,Medium
+423310,"Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers",0.1469999998807907,3,Medium
+423320,"Brick, Stone, and Related Construction Material Merchant Wholesalers",0.1469999998807907,3,Medium
+423330,"Roofing, Siding, and Insulation Material Merchant Wholesalers",0.1469999998807907,3,Medium
+423390,Other Construction Material Merchant Wholesalers,0.1469999998807907,3,Medium
+423510,Metal Service Centers and Other Metal Merchant Wholesalers,0.1469999998807907,3,Medium
+423520,Coal and Other Mineral and Ore Merchant Wholesalers,0.1469999998807907,3,Medium
+423710,Hardware Merchant Wholesalers,0.1469999998807907,3,Medium
+423720,Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers,0.1469999998807907,3,Medium
+423730,Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers,0.1469999998807907,3,Medium
+423740,Refrigeration Equipment and Supplies Merchant Wholesalers,0.1469999998807907,3,Medium
+423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers,0.1469999998807907,3,Medium
+423920,Toy and Hobby Goods and Supplies Merchant Wholesalers,0.1469999998807907,3,Medium
+423930,Recyclable Material Merchant Wholesalers,0.1469999998807907,3,Medium
+423940,"Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers",0.1469999998807907,3,Medium
+423990,Other Miscellaneous Durable Goods Merchant Wholesalers,0.1469999998807907,3,Medium
+336415,Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing,0.1459999978542328,3,Medium
+336419,Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing,0.1459999978542328,3,Medium
+515210,Cable and Other Subscription Programming,0.1459999978542328,3,Medium
+624110,Child and Youth Services,0.14499999582767487,3,Medium
+624120,Services for the Elderly and Persons with Disabilities,0.14499999582767487,3,Medium
+624190,Other Individual and Family Services,0.14499999582767487,3,Medium
+315110,Hosiery and Sock Mills,0.14499999582767487,3,Medium
+315190,Other Apparel Knitting Mills,0.14499999582767487,3,Medium
+315210,Cut and Sew Apparel Contractors,0.14499999582767487,3,Medium
+315220,Men's and Boys' Cut and Sew Apparel Manufacturing,0.14499999582767487,3,Medium
+315240,"Women's, Girls', and Infants' Cut and Sew Apparel Manufacturing",0.14499999582767487,3,Medium
+315280,Other Cut and Sew Apparel Manufacturing,0.14499999582767487,3,Medium
+315990,Apparel Accessories and Other Apparel Manufacturing,0.14499999582767487,3,Medium
+325413,In-Vitro Diagnostic Substance Manufacturing,0.14300000667572021,3,Medium
+532111,Passenger Car Rental,0.14300000667572021,3,Medium
+532112,Passenger Car Leasing,0.14300000667572021,3,Medium
+532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing",0.14300000667572021,3,Medium
+334510,Electromedical and Electrotherapeutic Apparatus Manufacturing,0.1420000046491623,3,Medium
+532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing",0.14000000059604645,3,Medium
+532412,"Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing",0.14000000059604645,3,Medium
+532420,Office Machinery and Equipment Rental and Leasing,0.14000000059604645,3,Medium
+532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing,0.14000000059604645,3,Medium
+811310,Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance,0.14000000059604645,3,Medium
+541940,Veterinary Services,0.13899999856948853,3,Medium
+713110,Amusement and Theme Parks,0.1379999965429306,3,Medium
+713120,Amusement Arcades,0.1379999965429306,3,Medium
+339115,Ophthalmic Goods Manufacturing,0.1379999965429306,3,Medium
+334512,"Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use",0.13699999451637268,3,Medium
+611110,Elementary and Secondary Schools,0.13699999451637268,3,Medium
+511120,Periodical Publishers,0.13600000739097595,3,Medium
+813410,Civic and Social Organizations,0.13600000739097595,3,Medium
+813910,Business Associations,0.13600000739097595,3,Medium
+813920,Professional Organizations,0.13600000739097595,3,Medium
+813930,Labor Unions and Similar Labor Organizations,0.13600000739097595,3,Medium
+813940,Political Organizations,0.13600000739097595,3,Medium
+813990,"Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)",0.13600000739097595,3,Medium
+334112,Computer Storage Device Manufacturing,0.13600000739097595,3,Medium
+334613,Blank Magnetic and Optical Recording Media Manufacturing,0.1340000033378601,3,Medium
+334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing",0.1340000033378601,3,Medium
+532210,Consumer Electronics and Appliances Rental,0.1340000033378601,3,Medium
+532281,Formal Wear and Costume Rental,0.1340000033378601,3,Medium
+532282,Video Tape and Disc Rental,0.1340000033378601,3,Medium
+532283,Home Health Equipment Rental,0.1340000033378601,3,Medium
+532284,Recreational Goods Rental,0.1340000033378601,3,Medium
+532289,All Other Consumer Goods Rental,0.1340000033378601,3,Medium
+532310,General Rental Centers,0.1340000033378601,3,Medium
+511110,Newspaper Publishers,0.13099999725818634,3,Medium
+424210,Drugs and Druggists' Sundries Merchant Wholesalers,0.13099999725818634,3,Medium
+551111,Offices of Bank Holding Companies,0.12999999523162842,3,Medium
+551112,Offices of Other Holding Companies,0.12999999523162842,3,Medium
+551114,"Corporate, Subsidiary, and Regional Managing Offices",0.12999999523162842,3,Medium
+541810,Advertising Agencies,0.1289999932050705,3,Medium
+541820,Public Relations Agencies,0.1289999932050705,3,Medium
+541830,Media Buying Agencies,0.1289999932050705,3,Medium
+541840,Media Representatives,0.1289999932050705,3,Medium
+541850,Outdoor Advertising,0.1289999932050705,3,Medium
+541860,Direct Mail Advertising,0.1289999932050705,3,Medium
+541870,Advertising Material Distribution Services,0.1289999932050705,3,Medium
+541890,Other Services Related to Advertising,0.1289999932050705,3,Medium
+519130,Internet Publishing and Broadcasting and Web Search Portals,0.12800000607967377,4,Low
+621511,Medical Laboratories,0.12700000405311584,4,Low
+621512,Diagnostic Imaging Centers,0.12700000405311584,4,Low
+811111,General Automotive Repair,0.12700000405311584,4,Low
+811112,Automotive Exhaust System Repair,0.12700000405311584,4,Low
+811113,Automotive Transmission Repair,0.12700000405311584,4,Low
+811118,Other Automotive Mechanical and Electrical Repair and Maintenance,0.12700000405311584,4,Low
+811121,"Automotive Body, Paint, and Interior Repair and Maintenance",0.12700000405311584,4,Low
+811122,Automotive Glass Replacement Shops,0.12700000405311584,4,Low
+811191,Automotive Oil Change and Lubrication Shops,0.12700000405311584,4,Low
+811192,Car Washes,0.12700000405311584,4,Low
+811198,All Other Automotive Repair and Maintenance,0.12700000405311584,4,Low
+541310,Architectural Services,0.125,4,Low
+541320,Landscape Architectural Services,0.125,4,Low
+541330,Engineering Services,0.125,4,Low
+541340,Drafting Services,0.125,4,Low
+541350,Building Inspection Services,0.125,4,Low
+541360,Geophysical Surveying and Mapping Services,0.125,4,Low
+541370,Surveying and Mapping (except Geophysical) Services,0.125,4,Low
+541380,Testing Laboratories,0.125,4,Low
+511130,Book Publishers,0.125,4,Low
+517410,Satellite Telecommunications,0.125,4,Low
+517911,Telecommunications Resellers,0.125,4,Low
+517919,All Other Telecommunications,0.125,4,Low
+611410,Business and Secretarial Schools,0.125,4,Low
+611420,Computer Training,0.125,4,Low
+611430,Professional and Management Development Training,0.125,4,Low
+611511,Cosmetology and Barber Schools,0.125,4,Low
+611512,Flight Training,0.125,4,Low
+611513,Apprenticeship Training,0.125,4,Low
+611519,Other Technical and Trade Schools,0.125,4,Low
+611610,Fine Arts Schools,0.125,4,Low
+611620,Sports and Recreation Instruction,0.125,4,Low
+611630,Language Schools,0.125,4,Low
+611691,Exam Preparation and Tutoring,0.125,4,Low
+611692,Automobile Driving Schools,0.125,4,Low
+611699,All Other Miscellaneous Schools and Instruction,0.125,4,Low
+611710,Educational Support Services,0.125,4,Low
+334310,Audio and Video Equipment Manufacturing,0.12399999797344208,4,Low
+541921,"Photography Studios, Portrait",0.12200000137090683,4,Low
+541922,Commercial Photography,0.12200000137090683,4,Low
+561910,Packaging and Labeling Services,0.12099999934434891,4,Low
+561920,Convention and Trade Show Organizers,0.12099999934434891,4,Low
+561990,All Other Support Services,0.12099999934434891,4,Low
+621310,Offices of Chiropractors,0.11999999731779099,4,Low
+621320,Offices of Optometrists,0.11999999731779099,4,Low
+621330,Offices of Mental Health Practitioners (except Physicians),0.11999999731779099,4,Low
+621340,"Offices of Physical, Occupational and Speech Therapists, and Audiologists",0.11999999731779099,4,Low
+621391,Offices of Podiatrists,0.11999999731779099,4,Low
+621399,Offices of All Other Miscellaneous Health Practitioners,0.11999999731779099,4,Low
+561410,Document Preparation Services,0.11800000071525574,4,Low
+561421,Telephone Answering Services,0.11800000071525574,4,Low
+561422,Telemarketing Bureaus and Other Contact Centers,0.11800000071525574,4,Low
+561431,Private Mail Centers,0.11800000071525574,4,Low
+561439,Other Business Service Centers (including Copy Shops),0.11800000071525574,4,Low
+561440,Collection Agencies,0.11800000071525574,4,Low
+561450,Credit Bureaus,0.11800000071525574,4,Low
+561491,Repossession Services,0.11800000071525574,4,Low
+561492,Court Reporting and Stenotype Services,0.11800000071525574,4,Low
+561499,All Other Business Support Services,0.11800000071525574,4,Low
+312230,Tobacco Manufacturing,0.11800000071525574,4,Low
+423810,Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers,0.11699999868869781,4,Low
+423820,Farm and Garden Machinery and Equipment Merchant Wholesalers,0.11699999868869781,4,Low
+423830,Industrial Machinery and Equipment Merchant Wholesalers,0.11699999868869781,4,Low
+423840,Industrial Supplies Merchant Wholesalers,0.11699999868869781,4,Low
+423850,Service Establishment Equipment and Supplies Merchant Wholesalers,0.11699999868869781,4,Low
+423860,Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers,0.11699999868869781,4,Low
+334515,Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals,0.11599999666213989,4,Low
+236116,New Multifamily Housing Construction (except For-Sale Builders),0.11599999666213989,4,Low
+621410,Family Planning Centers,0.11599999666213989,4,Low
+621420,Outpatient Mental Health and Substance Abuse Centers,0.11599999666213989,4,Low
+621491,HMO Medical Centers,0.11599999666213989,4,Low
+621492,Kidney Dialysis Centers,0.11599999666213989,4,Low
+621493,Freestanding Ambulatory Surgical and Emergency Centers,0.11599999666213989,4,Low
+621498,All Other Outpatient Care Centers,0.11599999666213989,4,Low
+334513,"Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables",0.11500000208616257,4,Low
+334290,Other Communications Equipment Manufacturing,0.11400000005960464,4,Low
+336412,Aircraft Engine and Engine Parts Manufacturing,0.11400000005960464,4,Low
+334111,Electronic Computer Manufacturing,0.1120000034570694,4,Low
+621610,Home Health Care Services,0.1120000034570694,4,Low
+515111,Radio Networks,0.10999999940395355,4,Low
+515112,Radio Stations,0.10999999940395355,4,Low
+515120,Television Broadcasting,0.10999999940395355,4,Low
+812111,Barber Shops,0.10899999737739563,4,Low
+812112,Beauty Salons,0.10899999737739563,4,Low
+812113,Nail Salons,0.10899999737739563,4,Low
+812191,Diet and Weight Reducing Centers,0.10899999737739563,4,Low
+812199,Other Personal Care Services,0.10899999737739563,4,Low
+423610,"Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers",0.10899999737739563,4,Low
+423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers",0.10899999737739563,4,Low
+423690,Other Electronic Parts and Equipment Merchant Wholesalers,0.10899999737739563,4,Low
+325412,Pharmaceutical Preparation Manufacturing,0.10700000077486038,4,Low
+519190,All Other Information Services,0.10700000077486038,4,Low
+519110,News Syndicates,0.10700000077486038,4,Low
+519120,Libraries and Archives,0.10700000077486038,4,Low
+561110,Office Administrative Services,0.10499999672174454,4,Low
+339116,Dental Laboratories,0.10400000214576721,4,Low
+441110,New Car Dealers,0.10400000214576721,4,Low
+441120,Used Car Dealers,0.10400000214576721,4,Low
+441210,Recreational Vehicle Dealers,0.10400000214576721,4,Low
+441222,Boat Dealers,0.10400000214576721,4,Low
+441228,"Motorcycle, ATV, and All Other Motor Vehicle Dealers",0.10400000214576721,4,Low
+441310,Automotive Parts and Accessories Stores,0.10400000214576721,4,Low
+441320,Tire Dealers,0.10400000214576721,4,Low
+561510,Travel Agencies,0.10300000011920929,4,Low
+561520,Tour Operators,0.10300000011920929,4,Low
+561591,Convention and Visitors Bureaus,0.10300000011920929,4,Low
+561599,All Other Travel Arrangement and Reservation Services,0.10300000011920929,4,Low
+444110,Home Centers,0.10100000351667404,4,Low
+444120,Paint and Wallpaper Stores,0.10100000351667404,4,Low
+444130,Hardware Stores,0.10100000351667404,4,Low
+444190,Other Building Material Dealers,0.10100000351667404,4,Low
+444210,Outdoor Power Equipment Stores,0.10100000351667404,4,Low
+444220,"Nursery, Garden Center, and Farm Supply Stores",0.10100000351667404,4,Low
+334519,Other Measuring and Controlling Device Manufacturing,0.10000000149011612,4,Low
+812910,Pet Care (except Veterinary) Services,0.0989999994635582,4,Low
+812921,Photofinishing Laboratories (except One-Hour),0.0989999994635582,4,Low
+812922,One-Hour Photofinishing,0.0989999994635582,4,Low
+812930,Parking Lots and Garages,0.0989999994635582,4,Low
+812990,All Other Personal Services,0.0989999994635582,4,Low
+541511,Custom Computer Programming Services,0.09700000286102295,4,Low
+511210,Software Publishers,0.09700000286102295,4,Low
+334516,Analytical Laboratory Instrument Manufacturing,0.09300000220537186,4,Low
+454110,Electronic Shopping and Mail-Order Houses,0.09099999815225601,4,Low
+454210,Vending Machine Operators,0.09099999815225601,4,Low
+454310,Fuel Dealers,0.09099999815225601,4,Low
+454390,Other Direct Selling Establishments,0.09099999815225601,4,Low
+621210,Offices of Dentists,0.09000000357627869,4,Low
+811211,Consumer Electronics Repair and Maintenance,0.09000000357627869,4,Low
+811212,Computer and Office Machine Repair and Maintenance,0.09000000357627869,4,Low
+811213,Communication Equipment Repair and Maintenance,0.09000000357627869,4,Low
+811219,Other Electronic and Precision Equipment Repair and Maintenance,0.09000000357627869,4,Low
+541410,Interior Design Services,0.08799999952316284,4,Low
+541420,Industrial Design Services,0.08799999952316284,4,Low
+541430,Graphic Design Services,0.08799999952316284,4,Low
+541490,Other Specialized Design Services,0.08799999952316284,4,Low
+541513,Computer Facilities Management Services,0.08699999749660492,4,Low
+541519,Other Computer Related Services,0.08699999749660492,4,Low
+621111,Offices of Physicians (except Mental Health Specialists),0.0860000029206276,4,Low
+621112,"Offices of Physicians, Mental Health Specialists",0.0860000029206276,4,Low
+811411,Home and Garden Equipment Repair and Maintenance,0.0860000029206276,4,Low
+811412,Appliance Repair and Maintenance,0.0860000029206276,4,Low
+811420,Reupholstery and Furniture Repair,0.0860000029206276,4,Low
+811430,Footwear and Leather Goods Repair,0.0860000029206276,4,Low
+811490,Other Personal and Household Goods Repair and Maintenance,0.0860000029206276,4,Low
+423410,Photographic Equipment and Supplies Merchant Wholesalers,0.08500000089406967,4,Low
+423420,Office Equipment Merchant Wholesalers,0.08500000089406967,4,Low
+423430,Computer and Computer Peripheral Equipment and Software Merchant Wholesalers,0.08500000089406967,4,Low
+423440,Other Commercial Equipment Merchant Wholesalers,0.08500000089406967,4,Low
+423450,"Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers",0.08500000089406967,4,Low
+423460,Ophthalmic Goods Merchant Wholesalers,0.08500000089406967,4,Low
+423490,Other Professional Equipment and Supplies Merchant Wholesalers,0.08500000089406967,4,Low
+325414,Biological Product (except Diagnostic) Manufacturing,0.08500000089406967,4,Low
+711110,Theater Companies and Dinner Theaters,0.08399999886751175,4,Low
+711120,Dance Companies,0.08399999886751175,4,Low
+711130,Musical Groups and Artists,0.08399999886751175,4,Low
+711190,Other Performing Arts Companies,0.08399999886751175,4,Low
+541611,Administrative Management and General Management Consulting Services,0.08399999886751175,4,Low
+541612,Human Resources Consulting Services,0.08399999886751175,4,Low
+541613,Marketing Consulting Services,0.08399999886751175,4,Low
+541614,"Process, Physical Distribution, and Logistics Consulting Services",0.08399999886751175,4,Low
+541618,Other Management Consulting Services,0.08399999886751175,4,Low
+711310,"Promoters of Performing Arts, Sports, and Similar Events with Facilities",0.08299999684095383,4,Low
+711320,"Promoters of Performing Arts, Sports, and Similar Events without Facilities",0.08299999684095383,4,Low
+711410,"Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures",0.08299999684095383,4,Low
+517311,Wired Telecommunications Carriers,0.0820000022649765,4,Low
+561611,Investigation Services,0.07999999821186066,4,Low
+561612,Security Guards and Patrol Services,0.07999999821186066,4,Low
+561613,Armored Car Services,0.07999999821186066,4,Low
+561621,Security Systems Services (except Locksmiths),0.07999999821186066,4,Low
+561622,Locksmiths,0.07999999821186066,4,Low
+541620,Environmental Consulting Services,0.07900000363588333,4,Low
+541690,Other Scientific and Technical Consulting Services,0.07900000363588333,4,Low
+424710,Petroleum Bulk Stations and Terminals,0.07800000160932541,4,Low
+424720,Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals),0.07800000160932541,4,Low
+541512,Computer Systems Design Services,0.07699999958276749,4,Low
+541930,Translation and Interpretation Services,0.07500000298023224,4,Low
+541990,"All Other Professional, Scientific, and Technical Services",0.07500000298023224,4,Low
+541910,Marketing Research and Public Opinion Polling,0.07500000298023224,4,Low
+711211,Sports Teams and Clubs,0.07199999690055847,4,Low
+711212,Racetracks,0.07199999690055847,4,Low
+711219,Other Spectator Sports,0.07199999690055847,4,Low
+334514,Totalizing Fluid Meter and Counting Device Manufacturing,0.07199999690055847,4,Low
+512110,Motion Picture and Video Production,0.07100000232458115,4,Low
+512120,Motion Picture and Video Distribution,0.07100000232458115,4,Low
+512131,Motion Picture Theaters (except Drive-Ins),0.07100000232458115,4,Low
+512132,Drive-In Motion Picture Theaters,0.07100000232458115,4,Low
+512191,Teleproduction and Other Postproduction Services,0.07100000232458115,4,Low
+512199,Other Motion Picture and Video Industries,0.07100000232458115,4,Low
+512230,Music Publishers,0.06800000369548798,4,Low
+512240,Sound Recording Studios,0.06800000369548798,4,Low
+512250,Record Production and Distribution,0.06800000369548798,4,Low
+512290,Other Sound Recording Industries,0.06800000369548798,4,Low
+813211,Grantmaking Foundations,0.06499999761581421,4,Low
+813212,Voluntary Health Organizations,0.06499999761581421,4,Low
+813219,Other Grantmaking and Giving Services,0.06499999761581421,4,Low
+813311,Human Rights Organizations,0.06499999761581421,4,Low
+813312,"Environment, Conservation and Wildlife Organizations",0.06499999761581421,4,Low
+813319,Other Social Advocacy Organizations,0.06499999761581421,4,Low
+522210,Credit Card Issuing,0.06400000303983688,4,Low
+522220,Sales Financing,0.06400000303983688,4,Low
+522291,Consumer Lending,0.06400000303983688,4,Low
+522292,Real Estate Credit,0.06400000303983688,4,Low
+522293,International Trade Financing,0.06400000303983688,4,Low
+522294,Secondary Market Financing,0.06400000303983688,4,Low
+522298,All Other Nondepository Credit Intermediation,0.06400000303983688,4,Low
+522310,Mortgage and Nonmortgage Loan Brokers,0.06400000303983688,4,Low
+522320,"Financial Transactions Processing, Reserve, and Clearinghouse Activities",0.06400000303983688,4,Low
+522390,Other Activities Related to Credit Intermediation,0.06400000303983688,4,Low
+523910,Miscellaneous Intermediation,0.06199999898672104,4,Low
+523920,Portfolio Management,0.06199999898672104,4,Low
+523930,Investment Advice,0.06199999898672104,4,Low
+523991,"Trust, Fiduciary, and Custody Activities",0.06199999898672104,4,Low
+523999,Miscellaneous Financial Investment Activities,0.06199999898672104,4,Low
+523110,Investment Banking and Securities Dealing,0.05999999865889549,4,Low
+523120,Securities Brokerage,0.05999999865889549,4,Low
+523130,Commodity Contracts Dealing,0.05999999865889549,4,Low
+523140,Commodity Contracts Brokerage,0.05999999865889549,4,Low
+523210,Securities and Commodity Exchanges,0.05999999865889549,4,Low
+334511,"Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing",0.05999999865889549,4,Low
+533110,Lessors of Nonfinancial Intangible Assets (except Copyrighted Works),0.057999998331069946,4,Low
+541110,Offices of Lawyers,0.05400000140070915,4,Low
+541120,Offices of Notaries,0.05400000140070915,4,Low
+541191,Title Abstract and Settlement Offices,0.05400000140070915,4,Low
+541199,All Other Legal Services,0.05400000140070915,4,Low
+425110,Business to Business Electronic Markets,0.050999999046325684,4,Low
+425120,Wholesale Trade Agents and Brokers,0.050999999046325684,4,Low
+541211,Offices of Certified Public Accountants,0.05000000074505806,4,Low
+541213,Tax Preparation Services,0.05000000074505806,4,Low
+541214,Payroll Services,0.05000000074505806,4,Low
+541219,Other Accounting Services,0.05000000074505806,4,Low
+521110,Monetary Authorities-Central Bank,0.04800000041723251,4,Low
+522110,Commercial Banking,0.04800000041723251,4,Low
+522120,Savings Institutions,0.04800000041723251,4,Low
+522130,Credit Unions,0.04800000041723251,4,Low
+522190,Other Depository Credit Intermediation,0.04800000041723251,4,Low
+524114,Direct Health and Medical Insurance Carriers,0.03400000184774399,4,Low
+524126,Direct Property and Casualty Insurance Carriers,0.03400000184774399,4,Low
+524127,Direct Title Insurance Carriers,0.03400000184774399,4,Low
+524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers",0.03400000184774399,4,Low
+524130,Reinsurance Carriers,0.03400000184774399,4,Low
+524210,Insurance Agencies and Brokerages,0.03400000184774399,4,Low
+524291,Claims Adjusting,0.03400000184774399,4,Low
+524292,Third Party Administration of Insurance and Pension Funds,0.03400000184774399,4,Low
+524298,All Other Insurance Related Activities,0.03400000184774399,4,Low
+812210,Funeral Homes and Funeral Services,0.03400000184774399,4,Low
+812220,Cemeteries and Crematories,0.03400000184774399,4,Low
+561311,Employment Placement Agencies,0.032999999821186066,4,Low
+561312,Executive Search Services,0.032999999821186066,4,Low
+561320,Temporary Help Services,0.032999999821186066,4,Low
+561330,Professional Employer Organizations,0.032999999821186066,4,Low
+524113,Direct Life Insurance Carriers,0.029999999329447746,4,Low
+531110,Lessors of Residential Buildings and Dwellings,0.01899999938905239,4,Low
+711510,"Independent Artists, Writers, and Performers",0.013000000268220901,4,Low
