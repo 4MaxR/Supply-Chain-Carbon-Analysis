@@ -65,7 +65,21 @@ Python (Pandas + Matplotlib)
         ▼
 EDA & Business Insights
 ```
+---
+## 📶 Power BI DashBoard
+![Power BI Dashboard](images/Supply%20Chain%20Carbon%20Emissions%20Analysis.png)
 
+### Dashboard Highlights
+
+- Executive KPIs (Total Industries, Average, Maximum, and Standard Deviation)
+- Top emitting industries
+- Average emission factor by emission level
+- Industry ranking table with emission differences
+
+📄 **Interactive Report**
+
+- [Power BI Dashboard (PDF)](documentation/Supply%20Chain%20Carbon%20Emissions%20Analysis.pdf)
+- [Power BI Dashboard (Template)](documentation/Supply%20Chain%20Carbon%20Emissions%20Analysis.pbix)
 ---
 
 ## 📂 Project Structure
