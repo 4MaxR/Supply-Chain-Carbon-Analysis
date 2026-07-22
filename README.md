@@ -24,6 +24,7 @@ The project demonstrates a complete analytics workflow, starting from raw data i
 
 - [Project Objectives](#-project-objectives)
 - [Project Architecture](#-project-architecture)
+- [Power BI DashBoard](#-power-bi-dashboard)
 - [Project Structure](#-project-structure)
 - [Technologies Used](#-technologies-used)
 - [Database Design](#-database-design)
